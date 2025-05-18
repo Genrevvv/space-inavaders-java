@@ -16,7 +16,7 @@ Space Invaders game in Java
    ```
 4. Run the App class
    ```bash
-   java -cp bin App
+   java -cp bin/ App
    ```
 
 ## Reference
